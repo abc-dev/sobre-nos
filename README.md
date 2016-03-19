@@ -8,11 +8,11 @@ E vários grupos!
 
 Com base nisso montamos essa organização para ajudar a centralizar todas as informações sobre esses grupos.
 
-Você que mora na região chega junto!
+Você que mora na região, chega junto!
 
 Você que mora longe, mas quer participar, entra no nosso [Slack](https://github.com/abc-dev/slack).
 
-Nosso código de conduta segue o do [FEMUG](https://github.com/femug/femug/blob/master/CODIGO-DE-CONDUTA.md) por concordarmos com suas regras.
+Nosso código de conduta segue o do [FEMUG](https://github.com/femug/femug/blob/master/CODIGO-DE-CONDUTA.md) por concordarmos com seu ponto de vista.
 
 ## Deseja nos ajudar?
 
