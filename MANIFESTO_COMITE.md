@@ -24,6 +24,7 @@ O comitê é um grupo formado pelos líderes das diversas [comunidades do Grande
 - [Danilo Vitoriano](https://github.com/danvitoriano)
 - [Darlan Mendonça](https://github.com/darlanmendonca)
 - [Eduardo Carrara ](https://github.com/ecarrara-araujo) - Organizador do [GDG-ABC](http://www.meetup.com/pt-BR/GDG-ABC/)
+- [Felipe Uliana "O Brutinhos"](https://github.com/felipeuliana)
 - [Filipe Carmona](https://github.com/carmona)
 - [Ubirajara Pelli](https://github.com/ubirajarapelli) - Organizador do [FEMUG-ABC](https://github.com/femug-abc)
 - [Wendell Adriel](https://github.com/WendellAdriel)
