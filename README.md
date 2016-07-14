@@ -18,4 +18,10 @@ Nosso código de conduta segue o do [FEMUG](https://github.com/femug/femug/blob/
 
 Caso você queira nos ajudar, incentivar, patrocinar, ceder espaço para os grupos fazerem os encontros ou conhece alguém que pode nos ajudar, entre em contato conosco: contato.abcdev@gmail.com. Se manjar de GitHub, pode só abrir uma [issue](https://github.com/abc-dev/sobre-nos/issues/new). :)
 
-## [Grupos do Grande ABC](https://github.com/abc-dev/grupos)
+## Quer patrocinar nosso evento anual?
+
+Veja [nesse documento](https://github.com/abc-dev/sobre-nos/blob/master/PATROCINE_APOIE_O_EVENTO.md) como ajudar o nosso evento e ainda divulgar sua marca para o público certo.
+
+## Grupos do Grande ABC
+
+Grupos que participam da Comunidade ABC-Dev: [lista de grupos](https://github.com/abc-dev/grupos)
